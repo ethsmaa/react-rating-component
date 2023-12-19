@@ -1,0 +1,24 @@
+.panel {
+    background-color: hsl(213, 19%, 18%);
+    border-radius: 20px;
+    width: 300px;
+    padding: 30px 30px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px;
+}
+
+.selected {
+    background-color: #2d3642;
+    margin-top: 30px;
+    color: #C5763A;
+    border-radius: 40px;
+    padding: 3px;
+    width: 200px;
+}
+
+h2{
+    font-size: 28px;
+}
